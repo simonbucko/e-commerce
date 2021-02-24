@@ -1,1 +1,16 @@
-This e-shop was built using of commerce.js, which is fully functional backend service for creating and managing eshop for any online business.User inferface was using React and payment gateway was mediated with Stripe, which allows users card payment, together with lots of graphs and statistics for gateway owners. Enjoy :)
+# E-Commerce
+[Live Site](https://e-shop-simon.netlify.app/)
+
+<img src="https://github.com/simonbucko/portfolio/blob/master/images/eCommerce.PNG" alt="pathvisualizer"/>
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
